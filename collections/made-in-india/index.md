@@ -26,6 +26,8 @@ items:
  - pupilfirst/pupilfirst
  - kadalu/kadalu
  - project-sunbird
+ - debdut/uuid-readable
+ - debdut/names.io
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
